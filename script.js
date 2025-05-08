@@ -2,7 +2,7 @@
 const revealElements = document.querySelectorAll('.reveal');
 const skillLevels = document.querySelectorAll('.skill-level');
 
-// Mobile menu toggle
+// Mobile menu toggle.
 const menuToggle = document.getElementById('menu-toggle');
 const navLinks = document.querySelector('.nav-links');
 
